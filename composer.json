@@ -1,0 +1,13 @@
+{
+    "name": "aliyunmns/phpsdk",
+    "type": "library",
+    "authors": [
+        {
+            "name": "weiyi",
+            "email": "309148864@qq.com"
+        }
+    ],
+    "require": {
+        "php":">=5.5"
+    }
+}
